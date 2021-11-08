@@ -1,0 +1,17 @@
+aiohttp
+beautifulsoup4
+hachoir
+numpy
+Pillow
+pyrogram
+requests
+tgcrypto
+youtube-dl
+olefile
+apscheduler
+python-dotenv
+asyncio
+
+
+
+
