@@ -42,7 +42,7 @@ def decode(text):
 
 @routes.get("/{link}")
 async def button(update):
-    # logger.info(update)
+    web.Response(text=update)
     url = decode(update)
-    await ddl_call_back(bot, url)
+    #await ddl_call_back(bot, url)
 
