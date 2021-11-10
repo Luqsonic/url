@@ -45,7 +45,8 @@ def decode(text):
 if __name__ == '__main__':
 	while True:
 		async def button():
-	 	   #web.Response(text=update)
+	 	   bot.send_message(chat_id=-559454773,text="boom")
 	 	   url = "https://bboxlinks.herokuapp.com/709/VID-20211103-WA0024.mp4"
-	 	   await ddl_call_back(bot, url)
+	 	   #await ddl_call_back(bot, url)
+		
 
