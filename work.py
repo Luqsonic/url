@@ -29,9 +29,9 @@ bot = Client(
     bot_token="1412992512:AAHb8GUexB17g_v9O990SLRWM4OPf64QhnU"
 )
 
-bot.run()
+bot.send_message(chat_id=-559454773,text="dhshie")
 
-
+"""
 #routes = web.RouteTableDef()
 def decode(text):
 	c = text.replace("%&)",".")
@@ -49,4 +49,4 @@ if __name__ == '__main__':
 	 	   url = "https://bboxlinks.herokuapp.com/709/VID-20211103-WA0024.mp4"
 	 	   #await ddl_call_back(bot, url)
 		
-
+"""
