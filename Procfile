@@ -1,1 +1,1 @@
-worker : send.py
+worker : pyro.py
